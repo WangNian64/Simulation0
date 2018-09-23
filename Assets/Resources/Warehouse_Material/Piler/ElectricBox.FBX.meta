@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 7fd375c2106f1514980786f4290923e2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\u7535\u7BB1\u90E8\u5206_MeshPart0"
+    100004: "\u7535\u7BB1\u90E8\u5206_MeshPart1"
+    100006: "\u7535\u7BB1\u90E8\u5206_MeshPart2"
+    100008: "\u7535\u7BB1\u90E8\u5206_MeshPart3"
+    100010: "\u7535\u7BB1\u90E8\u5206_MeshPart4"
+    100012: "\u7535\u7BB1\u90E8\u5206_MeshPart5"
+    100014: "\u7535\u7BB1\u90E8\u5206"
+    100016: ElectricBox_MeshPart0
+    100018: ElectricBox_MeshPart1
+    100020: ElectricBox_MeshPart2
+    100022: ElectricBox_MeshPart3
+    100024: ElectricBox_MeshPart4
+    100026: ElectricBox_MeshPart5
+    400000: //RootNode
+    400002: "\u7535\u7BB1\u90E8\u5206_MeshPart0"
+    400004: "\u7535\u7BB1\u90E8\u5206_MeshPart1"
+    400006: "\u7535\u7BB1\u90E8\u5206_MeshPart2"
+    400008: "\u7535\u7BB1\u90E8\u5206_MeshPart3"
+    400010: "\u7535\u7BB1\u90E8\u5206_MeshPart4"
+    400012: "\u7535\u7BB1\u90E8\u5206_MeshPart5"
+    400014: "\u7535\u7BB1\u90E8\u5206"
+    400016: ElectricBox_MeshPart0
+    400018: ElectricBox_MeshPart1
+    400020: ElectricBox_MeshPart2
+    400022: ElectricBox_MeshPart3
+    400024: ElectricBox_MeshPart4
+    400026: ElectricBox_MeshPart5
+    2300000: "\u7535\u7BB1\u90E8\u5206_MeshPart0"
+    2300002: "\u7535\u7BB1\u90E8\u5206_MeshPart1"
+    2300004: "\u7535\u7BB1\u90E8\u5206_MeshPart2"
+    2300006: "\u7535\u7BB1\u90E8\u5206_MeshPart3"
+    2300008: "\u7535\u7BB1\u90E8\u5206_MeshPart4"
+    2300010: "\u7535\u7BB1\u90E8\u5206_MeshPart5"
+    2300012: ElectricBox_MeshPart0
+    2300014: ElectricBox_MeshPart1
+    2300016: ElectricBox_MeshPart2
+    2300018: ElectricBox_MeshPart3
+    2300020: ElectricBox_MeshPart4
+    2300022: ElectricBox_MeshPart5
+    3300000: "\u7535\u7BB1\u90E8\u5206_MeshPart0"
+    3300002: "\u7535\u7BB1\u90E8\u5206_MeshPart1"
+    3300004: "\u7535\u7BB1\u90E8\u5206_MeshPart2"
+    3300006: "\u7535\u7BB1\u90E8\u5206_MeshPart3"
+    3300008: "\u7535\u7BB1\u90E8\u5206_MeshPart4"
+    3300010: "\u7535\u7BB1\u90E8\u5206_MeshPart5"
+    3300012: ElectricBox_MeshPart0
+    3300014: ElectricBox_MeshPart1
+    3300016: ElectricBox_MeshPart2
+    3300018: ElectricBox_MeshPart3
+    3300020: ElectricBox_MeshPart4
+    3300022: ElectricBox_MeshPart5
+    4300000: "\u7535\u7BB1\u90E8\u5206_MeshPart0"
+    4300002: "\u7535\u7BB1\u90E8\u5206_MeshPart1"
+    4300004: "\u7535\u7BB1\u90E8\u5206_MeshPart2"
+    4300006: "\u7535\u7BB1\u90E8\u5206_MeshPart3"
+    4300008: "\u7535\u7BB1\u90E8\u5206_MeshPart4"
+    4300010: "\u7535\u7BB1\u90E8\u5206_MeshPart5"
+    4300012: ElectricBox_MeshPart0
+    4300014: ElectricBox_MeshPart1
+    4300016: ElectricBox_MeshPart2
+    4300018: ElectricBox_MeshPart3
+    4300020: ElectricBox_MeshPart4
+    4300022: ElectricBox_MeshPart5
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cream Spirit - RED
+    second: {fileID: 2100000, guid: 0794a2c30290b0c4ca00054604301361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.1"
+    second: {fileID: 2100000, guid: 0060dc98e5c11fa4aa4c516dbf658ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.10"
+    second: {fileID: 2100000, guid: 5df54e96cba5dd244a5366d271861546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.2"
+    second: {fileID: 2100000, guid: eec7558c97364eb4eb2e594c5e3ca654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.3"
+    second: {fileID: 2100000, guid: 47077bb3cac9a8f478b619d13db6c54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6D77\u7070\u8272"
+    second: {fileID: 2100000, guid: c4603a0f862ae9242b4dc443fe052e35, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
